@@ -1,5 +1,14 @@
 # Evidencia
-Samantha Guanipa A01703936, Ángel Sánchez A01412516
-En este repositorio se crearon y editaron tres directorios que contienen juegos diseñados en Python. 
+Samantha Guanipa A01703936
 
-Los juegos fueron obtenidos de Free Games y se les realizaron cambios, cada integrante del equipo editó una rama. 
+# PacMan
+Explicación Este código desarrolla el juego Pac-Man utilizando la libreria "turtle" y algunas funciones de freegames.
+
+Se recrea un tablero donde apareceran los fantasmas y PacMan. Se utilizara un contador que ira indicando cuantas pildoras se consumiran, la velocidad de los fantasmas sera definida por el usuario.
+
+# Modificaciones realizadas
+A partir del codigo base se realizaron dos modificaciones.
+
+El mapa se cambio el tablero original
+
+El usuario puede elegir la velocidad
